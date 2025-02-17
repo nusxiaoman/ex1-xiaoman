@@ -35,7 +35,7 @@ generate_checkerboard(size=128, num_squares=16)
 🖼️ Example Output
 Here’s an example of the generated checkerboard:
 
-![Figure_1](https://github.com/user-attachments/assets/71633bd2-f48e-4fc5-89e7-f8fd3db74494)
+![Figure_1](https://github.com/user-attachments/assets/71633bd2-f48e-4fc5-89e7-f8fd3db74494](https://github.com/nusxiaoman/ex1-xiaoman/blob/main/Figure_1.png)
 
 📜 License
 This project is open-source and available under the MIT License.
