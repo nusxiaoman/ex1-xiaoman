@@ -22,7 +22,7 @@ python checkerboard.py
 ```python
 plt.imshow(checkerboard, cmap="viridis", interpolation="nearest")
 
-🎨 Customization
+###🎨 Customization
 Change the colormap in plt.imshow() to experiment with different color schemes:
 
 "gray" (grayscale)
@@ -32,12 +32,12 @@ Modify the size and number of squares in generate_checkerboard():
 
 generate_checkerboard(size=128, num_squares=16)
 
-🖼️ Example Output
+## 🖼️ Example Output
 Here’s an example of the generated checkerboard:
 
 ![Checkerboard Example](https://github.com/nusxiaoman/ex1-xiaoman/raw/main/Figure_1.png)
 
-📜 License
+###📜 License
 This project is open-source and available under the MIT License.
 
 Happy Coding! 🚀🎉
